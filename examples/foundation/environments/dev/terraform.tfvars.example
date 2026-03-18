@@ -1,0 +1,12 @@
+region      = "eu-west-2"
+name_prefix = "northstar-demo"
+# certificate_arn  = "arn:aws:acm:eu-west-2:123456789012:certificate/replace-me"
+# hosted_zone_id   = "Z1234567890ABCDE"
+# root_domain_name = "northstarairline.com"
+# www_domain_name  = "www.northstarairline.com"
+
+tags = {
+  Environment = "dev"
+  Owner       = "replace-me"
+  Project     = "northstar-demo"
+}
