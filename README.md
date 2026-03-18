@@ -12,7 +12,7 @@ Reusable Terraform modules for a low-cost AWS ECS demo platform.
 
 ## Foundation example
 
-Use [`examples/foundation/environments/dev`](/Users/harish/Documents/Playground/shared-terraform-modules/examples/foundation/environments/dev) to provision the shared foundation stack.
+Use [`examples/foundation/environments/dev`](/Users/harish/Documents/northstar/shared-terraform-modules/examples/foundation/environments/dev) to provision the shared foundation stack.
 
 ## Release flow
 

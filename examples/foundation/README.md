@@ -13,7 +13,7 @@ This example provisions the shared platform components once:
 
 1. Create the remote state bucket and lock table using the `tf-state-bootstrap` module.
 2. Update `backend-config` values to point at that bucket and table.
-3. Run Terraform from [`environments/dev`](/Users/harish/Documents/Playground/shared-terraform-modules/examples/foundation/environments/dev).
+3. Run Terraform from [`environments/dev`](/Users/harish/Documents/northstar/shared-terraform-modules/examples/foundation/environments/dev).
 
 ## Outputs consumed by the app repos
 
